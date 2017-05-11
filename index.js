@@ -1,3 +1,3 @@
 require('babel-register');
 require('babel-polyfill');
-module.exports = require('./src');
+module.exports = require('./src/server');
